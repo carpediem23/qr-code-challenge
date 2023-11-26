@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+
+:is(h2, p) {
+    text-align: center;
+}
